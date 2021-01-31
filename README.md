@@ -38,3 +38,19 @@ The JavaScript Robotics & IoT Platform
 Game Engines that use Javascript
 ## [PlayCanvas](https://playcanvas.com/#!)
 ## [GDevelop](https://gdevelop-app.com)
+
+---
+
+#Web Hosting
+## [Netlify](https://www.netlify.com)
+for static webpages without servers
+## [Heroku](https://www.heroku.com/#)
+for app prototyping and server included websites
+## [ngrok](https://ngrok.com)
+for testing local servers on the internet
+## [Firebase](https://firebase.google.com)
+for keeping track of user data, credentials, etc
+## [Github Pages](https://pages.github.com)
+for static sites on github
+## [Node.js](https://nodejs.org/en/)
+for making servers for hosting
